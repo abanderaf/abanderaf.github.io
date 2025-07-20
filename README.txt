@@ -1,31 +1,27 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portafolio de Alexander Bandera - Data 4U
 
+Bienvenido a mi sitio personal donde muestro proyectos de análisis de datos, desarrollo web y automatización.
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+## Herramientas y habilidades que me gusta desarrollar.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- Python 🐍
+- Power BI 📊
+- SQL 🗃️
+- Appsheet
+- Git / GitHub 🛠️
+- Wordpress - CMS
+- HTML / CSS / JS 🌐
 
-(* = not included)
+**Tecnologías que uso**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-AJ
-aj@lkn.io | @ajlkn
+📫 Conecta conmigo → [LinkedIn](https://www.linkedin.com/in/abanderaf/)
+Visita el sitio en 👉 [abanderaf.github.io](https://abanderaf.github.io)
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+© 2025 Alexander Bandera
