@@ -4014,15 +4014,19 @@ input, select, textarea {
 
 			.wrapper.spotlight .inner > img {
     			width: 100%;
+    			max-width: 800px; /* tamaño máximo en desktop */
     			height: auto;
     			border-radius: 0;
-   				display: block;
-    			margin: 0 auto 1rem;
+    			display: block;
+    			margin: 0 auto 1rem; /* centrada y espacio debajo */
 			}
 
 			.wrapper.spotlight .content {
-    			width: 100%;
-    			text-align: center; /* opcional, centrado */
+    			width: 100%;       /* ocupa todo el ancho */
+    			display: block;    /* apila h2 y p */
+    			overflow: visible; /* asegura que no se corte */
+    			text-align: left;  /* alineado a la izquierda */
+    			margin-top: 1rem;  /* separación de la imagen */
 			}
 
 
