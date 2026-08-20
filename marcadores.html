@@ -225,7 +225,7 @@
     <div class="field-row">
       <div class="field">
         <label>Carpeta</label>
-        <input type="text" id="fFolder" list="folderOptions" placeholder="Ej: Trabajo">
+        <input type="text" id="fFolder" list="folderOptions" placeholder="Ej: Trabajo/Banca">
         <datalist id="folderOptions"></datalist>
       </div>
       <div class="field">
@@ -464,28 +464,65 @@
     }catch(e){ return ''; }
   }
 
+  function buildFolderTree(){
+    var root = {path:'', name:'', count:0, children:{}};
+    state.items.forEach(function(item){
+      if(!item.folder) return;
+      var parts = item.folder.split('/').map(function(p){return p.trim();}).filter(Boolean);
+      if(!parts.length) return;
+      var node = root;
+      var acc = [];
+      parts.forEach(function(part){
+        acc.push(part);
+        var path = acc.join('/');
+        if(!node.children[part]){
+          node.children[part] = {path:path, name:part, count:0, children:{}};
+        }
+        node = node.children[part];
+      });
+      node.count++;
+    });
+    return root;
+  }
+
+  function folderMatches(itemFolder, targetPath){
+    if(!itemFolder) return false;
+    return itemFolder === targetPath || itemFolder.indexOf(targetPath + '/') === 0;
+  }
+
+  function renderFolderNode(node, container, depth){
+    var keys = Object.keys(node.children).sort();
+    keys.forEach(function(key){
+      var child = node.children[key];
+      var totalCount = state.items.filter(function(i){ return folderMatches(i.folder, child.path); }).length;
+      var el = document.createElement('div');
+      el.className = 'nav-item';
+      el.style.paddingLeft = (8 + depth*14) + 'px';
+      el.dataset.filter = JSON.stringify({type:'folder', value:child.path});
+      el.innerHTML = '<span>'+escapeHtml(child.name)+'</span><span class="cnt">'+totalCount+'</span>';
+      container.appendChild(el);
+      if(Object.keys(child.children).length){
+        renderFolderNode(child, container, depth+1);
+      }
+    });
+  }
+
   function render(){
     document.getElementById('cntAll').textContent = state.items.length;
     document.getElementById('cntFav').textContent = state.items.filter(function(i){return i.favorite;}).length;
 
-    var folders = {};
     var tags = {};
     state.items.forEach(function(i){
-      if(i.folder){ folders[i.folder] = (folders[i.folder]||0)+1; }
       (i.tags||[]).forEach(function(t){ tags[t] = (tags[t]||0)+1; });
     });
 
     var folderList = document.getElementById('folderList');
     folderList.innerHTML = '';
-    Object.keys(folders).sort().forEach(function(f){
-      var el = document.createElement('div');
-      el.className = 'nav-item';
-      el.dataset.filter = JSON.stringify({type:'folder', value:f});
-      el.innerHTML = '<span>'+escapeHtml(f)+'</span><span class="cnt">'+folders[f]+'</span>';
-      folderList.appendChild(el);
-    });
-    if(Object.keys(folders).length===0){
+    var tree = buildFolderTree();
+    if(Object.keys(tree.children).length===0){
       folderList.innerHTML = '<div style="font-size:12px;color:var(--text-3);padding:4px 8px;">Sin carpetas aún</div>';
+    }else{
+      renderFolderNode(tree, folderList, 0);
     }
 
     var tagList = document.getElementById('tagList');
@@ -501,8 +538,10 @@
       tagList.innerHTML = '<div style="font-size:12px;color:var(--text-3);padding:4px 8px;">Sin tags aún</div>';
     }
 
+    var allFolderPaths = {};
+    state.items.forEach(function(i){ if(i.folder) allFolderPaths[i.folder] = true; });
     var datalist = document.getElementById('folderOptions');
-    datalist.innerHTML = Object.keys(folders).map(function(f){return '<option value="'+escapeHtml(f)+'">';}).join('');
+    datalist.innerHTML = Object.keys(allFolderPaths).sort().map(function(f){return '<option value="'+escapeHtml(f)+'">';}).join('');
 
     document.querySelectorAll('.nav-item').forEach(function(el){
       var f = JSON.parse(el.dataset.filter);
@@ -512,7 +551,7 @@
 
     var filtered = state.items.filter(function(i){
       if(state.filter.type === 'fav' && !i.favorite) return false;
-      if(state.filter.type === 'folder' && i.folder !== state.filter.value) return false;
+      if(state.filter.type === 'folder' && !folderMatches(i.folder, state.filter.value)) return false;
       if(state.filter.type === 'tag' && (i.tags||[]).indexOf(state.filter.value) === -1) return false;
       if(state.search){
         var s = state.search.toLowerCase();
