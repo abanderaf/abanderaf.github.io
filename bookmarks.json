@@ -1,1 +1,2594 @@
-[]
+[
+  {
+    "id": "bmt1bzxeg8ga0x",
+    "url": "https://www.sba.gov/",
+    "title": "Small Business Administration",
+    "folder": "COLOMBIANOS EN EL EXT",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegpzqby",
+    "url": "https://lafontnegra.com/wp-admin/",
+    "title": "Escritorio < La Font negra — WordPress",
+    "folder": "wordpress",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg5w9u2",
+    "url": "https://chat.deepseek.com/",
+    "title": "DeepSeek - Into the Unknown",
+    "folder": "Barra de marcadores",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg3dz6l",
+    "url": "https://www.serpsimulator.com/",
+    "title": "SERP Simulator - FREE Google SERP Snippet Optimization Tool",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegsh76a",
+    "url": "https://politicadeprivacidadplantilla.com/",
+    "title": "▷ Generador de Política de Privacidad || GRATIS y fácil || ¡Probar ahora!",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg6ghdt",
+    "url": "https://wordpress.com/es/support/edicion-de-css/",
+    "title": "Cómo añadir CSS personalizados – Ayuda",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegoktxr",
+    "url": "https://www.webempresa.com/blog/de-joomla-a-wordpress-en-menos-de-5-minutos.html",
+    "title": "Migrar de Joomla a WordPress en 5 minutos - Webempresa",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegyngql",
+    "url": "https://marketingplatform.google.com/intl/es/about/tag-manager/",
+    "title": "Soluciones de gestión de etiquetas para sitios web y aplicaciones móviles - Google Tag Manager",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg8scyb",
+    "url": "https://whois.domaintools.com/",
+    "title": "Búsqueda de Whois, disponibilidad de dominios y amp; Búsqueda de IP - DomainTools",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg38s8r",
+    "url": "https://moz.com/blog",
+    "title": "The Moz Blog [SEO] - Moz",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegew233",
+    "url": "https://www.optimalworkshop.com/chalkmark/",
+    "title": "Chalkmark - Herramienta de prueba del primer clic | Taller óptimo",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegn6i6u",
+    "url": "https://tagmanager.google.com/#/home",
+    "title": "Google Tag Manager",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegtan1f",
+    "url": "https://www.similarweb.com/website/revistaempresarial.com/#similarSites",
+    "title": "Similar web",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeguu4pj",
+    "url": "https://trends.google.es/trends/?geo=ES",
+    "title": "Google Trends",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegnoutn",
+    "url": "https://create.wa.link/",
+    "title": "Create WhatsApp links | Walink",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegx3zhi",
+    "url": "https://ga-dev-tools.web.app/ga4/",
+    "title": "Discover the Google Analytics platform",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegc35by",
+    "url": "https://my.elementor.com/subscriptions/?utm_source=braze&utm_medium=email&utm_campaign=Upgrade_Order&utm_term=All",
+    "title": "Elementor | Subscriptions",
+    "folder": "WEB Y REDES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg6yfef",
+    "url": "https://calendly.com/event_types/user/me",
+    "title": "Calendly",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegdkq85",
+    "url": "https://www.thinkwithgoogle.com/intl/es-es/feature/testmysite/?gclid=EAIaIQobChMIw6-LjIHn8QIVVbvVCh2gQQ3KEAAYASAAEgJaT_D_BwE&gclsrc=aw.ds",
+    "title": "Compara la velocidad de tu sitio web",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg2ks79",
+    "url": "https://ga-dev-tools.appspot.com/campaign-url-builder/",
+    "title": "url builders",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg1wnhf",
+    "url": "https://www.gwi.com/?utm_source=ppc&utm_medium=ppc&utm_term=globalweb%20index&utm_campaign=GWI+-+UK+-+EN+-+Brand+Pure+-+GWI+-+Exact&hsa_kw=globalweb%20index&hsa_grp=46477031919&hsa_net=adwords&hsa_acc=9903771596&hsa_cam=951758616&hsa_tgt=kwd-577895008289&hsa_src=g&hsa_mt=e&hsa_ad=495236016409&hsa_ver=3&gclid=CjwKCAiA1uKMBhAGEiwAxzvX9zJhWOfyCNKJ5XgJyQNL1lR1tnofwkHS4qQpIjf2Lzkf2o6fIMVXmRoCragQAvD_BwE",
+    "title": "GWI - Audience Insight Tools, Digital Analytics & Consumer Trends",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegnckry",
+    "url": "https://builtwith.com/",
+    "title": "Búsqueda de tecnología BuiltWith",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg6app9",
+    "url": "https://getpocket.com/home?src=signup",
+    "title": "Pocket",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegs3ff2",
+    "url": "https://whereby.com/user",
+    "title": "Whereby",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegs06x9",
+    "url": "https://www.appsheet.com/Template/Apps",
+    "title": "My Apps - AppSheet",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegeifte",
+    "url": "https://surveys.google.com/warm-welcome?dest=%2Fyour-surveys%3Fcategory%3Dexample",
+    "title": "Google Surveys - Te damos la bienvenida",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegk3cgm",
+    "url": "https://www.saasworthy.com/list",
+    "title": "All Software Categories | SaaSworthy.com",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegdjedp",
+    "url": "https://www.myfonts.com/pages/whatthefont?gclid=CjwKCAjwrJ-hBhB7EiwAuyBVXfuKUD2FsiG989HfZ8D7i_QYozAXtwySE0p8vTyqV0V5wRTeRsJ6QBoC0mIQAvD_BwE",
+    "title": "WhatTheFont | MyFonts’ AI-Powered Font Finder",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegf96r8",
+    "url": "https://instavideosave.net/",
+    "title": "Instagram Reels Downloader — Save Reels & Videos",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegeqem6",
+    "url": "https://wave.video/convert/youtube-to-mp3-25-35",
+    "title": "Free YouTube to MP3 Converter and Downloader | Wave.video",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegdnd3c",
+    "url": "https://vips.lecturaagil.com/includes/agilectorv2/agilectorLA.html",
+    "title": "vips.lecturaagil.com/includes/agilectorv2/agilectorLA.html",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegkgvys",
+    "url": "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-357.63,40.90,8328",
+    "title": "earth :: a global map of wind, weather, and ocean conditions",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegj6wgo",
+    "url": "https://radio.garden/listen/la-x-103-9-fm/sxfarG13?hl=es",
+    "title": "Radio Garden – La X 103.9 FM",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegn1su3",
+    "url": "https://neal.fun/deep-sea/",
+    "title": "The Deep Sea",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg0rlqz",
+    "url": "https://histography.io/",
+    "title": "Histography - Timeline of History",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegnmh7w",
+    "url": "https://thetruesize.com/#?borders=1~!MTM5NzU4NDU.MzU4NjgzNQ*MzMyMDA2Mzk(NjIwMDYzOQ~!CONTIGUOUS_US*MTAwMjQwNzU.MjUwMjM1MTc(MTc1)MQ~!IN*NTI2NDA1MQ.Nzg2MzQyMQ)Mg~!CN*OTkyMTY5Nw.NzMxNDcwNQ(MjI1)Mw",
+    "title": "The True Size Of ...",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxega481a",
+    "url": "https://www.submarinecablemap.com/",
+    "title": "Submarine Cable Map",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegisv30",
+    "url": "https://www.window-swap.com/",
+    "title": "WindowSwap - Watch windows around the world",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegqq2dw",
+    "url": "https://haveibeenpwned.com/",
+    "title": "Have I Been Pwned: Check if your email address has been exposed in a data breach",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg3y1i3",
+    "url": "https://www.photopea.com/",
+    "title": "Photopea | Online Photo Editor",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeggaba1",
+    "url": "https://www.remove.bg/es",
+    "title": "Quitar fondo a imagenes online y consigue fondos transparentes – remove.bg",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg15usl",
+    "url": "https://alternativeto.net/",
+    "title": "AlternativeTo - Crowdsourced software recommendations | AlternativeTo",
+    "folder": "TOOLS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegke3sp",
+    "url": "https://www.pexels.com/es-es/",
+    "title": "Fotos de stock gratis, imágenes libres de regalías y sin derechos de autor",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegmsick",
+    "url": "https://es.vecteezy.com/?link=logo&utm_source=Klaviyo&utm_medium=email&utm_campaign=ES_Welcome_1_giftkit%20%28Rr5sgf%29&_kx=wz4WiSoh4kAxVhPvPX5eAFv8r9Rc0FjPFlvZm-DjR7-05pIOmNEaK93y7tVctiO9.Qt4zSf",
+    "title": "Vecteezy",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegqb30m",
+    "url": "https://unsplash.com/",
+    "title": "Beautiful Free Images & Pictures | Unsplash",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg1mfg1",
+    "url": "https://www.canva.com/es_es/",
+    "title": "Crea diseños increíbles con tus amigos y colegas totalmente gratis",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegkle81",
+    "url": "https://www.figma.com/?ref=trabajosremotos",
+    "title": "Figma: the collaborative interface design tool.",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegp7etr",
+    "url": "https://www.ilovepdf.com/es",
+    "title": "iLovePDF | Herramientas PDF online gratis",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegfu8ws",
+    "url": "http://www.canonoutsideofauto.ca/play/",
+    "title": "Jugar | Canon explica la exposición",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegv5gof",
+    "url": "https://www.artblocks.io/",
+    "title": "bloques de arte",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg67k93",
+    "url": "https://spark.adobe.com/es-ES/sp/design/post/new?_branch_match_id=904331053233983731&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0zJT0otLkgsyi7ILy7RSywo0MvJzMvWT7cozjapSLJwDAMAArqN4SoAAAA%3D",
+    "title": "PS",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg4eaje",
+    "url": "https://www9.lunapic.com/editor/",
+    "title": "LunaPic | Editor de fotos en línea gratuito",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegnj4t6",
+    "url": "https://www.dafont.com/es/",
+    "title": "DaFont - Descargar fuentes",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxego07fe",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve/",
+    "title": "DaVinci Resolve 17 | Blackmagic Design",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegg6wx9",
+    "url": "https://www.bestindesigntemplates.com/catalogue/",
+    "title": "Plantillas de catálogo de InDesign [Descarga gratuita de plantillas]",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegxy1qp",
+    "url": "https://pixabay.com/es/vectors/search/avatar/",
+    "title": "Más de 600 vectores de Avatar y Persona gratis - Pixabay",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegcimzv",
+    "url": "https://wunderstock.com/category/business/",
+    "title": "Business - Wunderstock",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegds0av",
+    "url": "https://www.freepik.es/psd/template",
+    "title": "PSD de Template, +399.000 Plantillas PSD gratuitas de gran calidad para descargar",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg9fwqe",
+    "url": "https://www.jotform.com/form-templates/?classic",
+    "title": "10,000+ Formularios gratis en línea y formularios de ejemplo | Jotform",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg4dw7l",
+    "url": "https://tinywow.com/",
+    "title": "Free PDF, Video, Image & Other Online Tools - TinyWow",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg4g9xm",
+    "url": "https://lordicon.com/icons",
+    "title": "Icons - Lordicon",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg107js",
+    "url": "https://storymaps.arcgis.com/",
+    "title": "ArcGIS StoryMaps",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg7690q",
+    "url": "https://www.rgbtohex.net/",
+    "title": "RGB to HEX",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegguhce",
+    "url": "https://vamtam.com/themes/",
+    "title": "Themes – VamTam – Creative Design Agency",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegykru0",
+    "url": "https://www.renderforest.com/es/",
+    "title": "Todas sus herramientas de diseño en un solo lugar | Renderforest",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegvdyv0",
+    "url": "https://color.adobe.com/es/create/color-wheel",
+    "title": "Rueda de colores, un generador de paletas de colores | Adobe Color",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegexe2d",
+    "url": "https://www.adobe.com/es/express/",
+    "title": "Herramienta online gratuita para fotografía y diseño| Adobe Express",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg9djwz",
+    "url": "https://new.express.adobe.com/",
+    "title": "Adobe Express",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg2u7mk",
+    "url": "https://www.fiftysounds.com/es/",
+    "title": "Música sin Copyright Gratis para Uso Comercial | FiftySounds",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegraasm",
+    "url": "https://encycolorpedia.es/67727f",
+    "title": "GM / General Motors Satin Steel Gray / #67727f Código Hex de Combinaciones de colores, Paletas y Pinturas",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegd8n68",
+    "url": "https://coolors.co/?home",
+    "title": "Coolors - The super fast color palettes generator!",
+    "folder": "IMAGENES Y DISEÑO",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg2cc7c",
+    "url": "https://afiliados.amazon.es/help/node/topic/GRXPHT8U84RAYDXZ",
+    "title": "Amazon Afiliados",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg03v8z",
+    "url": "https://sell.amazon.com/programs",
+    "title": "Custom Selling Programs Focus on Your Unique Niche",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegkdj83",
+    "url": "https://feralfile.com/exhibitions",
+    "title": "Feral File - Exhibiting, Curating, and Collecting Digital Media",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg9c27c",
+    "url": "https://alastria.io/",
+    "title": "Home - Alastria",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegrkxmq",
+    "url": "https://eduarea.wordpress.com/tag/cj-affiliate/",
+    "title": "CJ affiliate | Eduarea's Blog",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegviag9",
+    "url": "https://www.misingresospasivos.com/",
+    "title": "Aprende a Crear Ingresos Pasivos en Internet - Mis Ingresos Pasivos",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegqpzf7",
+    "url": "https://www.hostinger.co/tutoriales/mejores-programas-de-afiliados",
+    "title": "18 Mejores Programas De Afiliados Para Ganar Dinero Online",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegr7mf4",
+    "url": "https://www.afiliado.com/guias/manual-ganar-dinero-bloques-adsense-youtube.html",
+    "title": "Gane dinero con los bloques de video AdSense en Youtube - Tutorial editado por Afiliado.com.",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg9ay0a",
+    "url": "https://www.solostocks.com/venta-productos/plastico-reciclado",
+    "title": "Venta de Plástico Reciclado",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegmrvnt",
+    "url": "https://www.gofundme.com/es-es/c/why-gofundme?utm_source=google&utm_medium=cpc&utm_campaign=SE_GoFundMe_ES_ES_Exact&utm_content=GoFundMe&utm_term=gofundme_e_c_&gclid=EAIaIQobChMInrabgMum9AIVogaICR19bwuzEAAYASAAEgIw4fD_BwE",
+    "title": "Por qué GoFundMe",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegte93o",
+    "url": "https://es.fiverr.com/start_selling?source=top_nav",
+    "title": "Start Selling on Fiverr",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg97lie",
+    "url": "https://www.kickstarter.com/?lang=es",
+    "title": "Kickstarter",
+    "folder": "BUSINNES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegfsbc6",
+    "url": "https://xaloc.diba.cat/",
+    "title": "Inici | Xaloc",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegpj59s",
+    "url": "https://trailhead.salesforce.com/es-MX?gclid=CjwKCAiA866PBhAYEiwANkIneCj-WUojQ5tx70IoDGYaDEbiGlblA6w1dEKrWbou_fiXygKwy_cO_xoCvnwQAvD_BwE&gclsrc=aw.ds",
+    "title": "Trailhead | La manera divertida de aprender",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegvz5rb",
+    "url": "https://www.acelerapyme.gob.es/descubre-tu-area-privada?check_logged_in=1",
+    "title": "Descubre tu área privada | Acelera pyme",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegd971f",
+    "url": "https://www.barcelona.cat/ca/",
+    "title": "El web de la ciutat de Barcelona | Ajuntament de Barcelona",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegkdfqp",
+    "url": "https://inarquia.es/obras/?jsf=jet-engine:listado-viviendas&tax=construccion:11449",
+    "title": "Obras archivo | Inarquia",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegsu2c6",
+    "url": "https://www.uab.cat/web/estudiar/grados/acceso-a-los-estudios/acreditacion-de-experiencia-laboral-1345696585270.html",
+    "title": "Acreditación de experiencia laboral - Facultad de Economía y Empresa - UAB Barcelona",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegizuda",
+    "url": "https://www.uab.cat/web/conoce-la-facultad/la-facultad/datos-de-contacto-1345832646288.html",
+    "title": "Datos de contacto - Facultad de Economía y Empresa - UAB Barcelona",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeglfj43",
+    "url": "https://www.inbiot.es/",
+    "title": "inBiot - Monitorización y mejora de la calidad del aire interior",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegn4wrq",
+    "url": "https://www.planillaexcel.com/plantillas",
+    "title": "Descarga plantillas de Excel gratis - PlanillaExcel.com",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg94ks7",
+    "url": "https://ais.usvisa-info.com/es-co/niv",
+    "title": "Official U.S. Department of State Visa Appointment Service | Colombia | Spanish",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegag7fa",
+    "url": "https://ais.usvisa-info.com/es-co/niv/groups/34837820",
+    "title": "Grupos | Official U.S. Department of State Visa Appointment Service | Colombia | Spanish",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegzcnb2",
+    "url": "https://es.investing.com/currencies/eur-cop",
+    "title": "Tipo de cambio Euro Peso colombiano hoy | Cotización EUR/COP - Investing.com",
+    "folder": "TRAMITES Y CONSULTAS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegjdapb",
+    "url": "https://seocom.agency/es/",
+    "title": "SEOCOM - Agencia SEO en Barcelona y Madrid",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegkserh",
+    "url": "https://www.kaushik.net/avinash/",
+    "title": "Occam's Razor by Avinash Kaushik - Digital Marketing and Analytics Blog",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegdi9au",
+    "url": "https://diegosanchez.blog/",
+    "title": "Diego Sánchez Blog - Estrategia Digital",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg8lp62",
+    "url": "https://www.welcometothejungle.com/es",
+    "title": "Welcome to the Jungle - La guía para orientarte en tu carrera",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg21zbj",
+    "url": "https://www.dobuss.es/",
+    "title": "Diseño Web en Córdoba y Posicionamiento Web en Córdoba | Dobuss",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg3veud",
+    "url": "https://university.es.rockcontent.com/courses/take/estrategia-de-marketing-digital-cert/lessons/21044771-1-1-presentacion",
+    "title": "Estrategia de Marketing Digital - Rock University Español",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegzqe3t",
+    "url": "https://developingthebusiness.com/",
+    "title": "Developing the Business",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegz17ed",
+    "url": "https://www.theetailers.com/servicios/",
+    "title": "Descubre nuestros servicios para tu e-commerce - The etailers",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegluqwd",
+    "url": "https://designplus.co/ecommerce/estrategias-marketing-ecommerce-shopify/",
+    "title": "Estrategias De Marketing ECommerce Para Shopify ¡Vende Más!",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegata33",
+    "url": "https://www.davidsoler.es/servicios-marketing-digital/",
+    "title": "Servicios de marketing digital | davidsoler.es",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegheajz",
+    "url": "https://wearesocial.com/es/",
+    "title": "We Are Social ES - Agencia creativa guiada por el pensamiento social",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg1m02a",
+    "url": "https://rockcontent.com/es/",
+    "title": "Rock Content: Experiencias de contenidos que le van a encantar a tu público",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg0ima4",
+    "url": "https://signuptoday.hootsuite.com/emea-es-pro-sem-branded/?utm_source=google&gclid=Cj0KCQjw2NyFBhDoARIsAMtHtZ6o_36vjx33h9IRyXWgXAz1NKmyXaxIkElwjA2rMwY9h9dOY7JlmOgaAscfEALw_wcB",
+    "title": "Academy Bundle - Hootsuite",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegeqkjx",
+    "url": "https://coobis.com/es/",
+    "title": "Content Marketing, Influencers & Branded Content | Coobis",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegyt05f",
+    "url": "https://www.clau21.com/realitzacio-de-volta-catalana-de-90m2/?et_fb=1&PageSpeed=off",
+    "title": "Realització de volta catalana de 90m2 - Clau21",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeglnjh9",
+    "url": "https://bioconstruccionfutura.com/patrocinio/?utm_source=substack&utm_medium=email",
+    "title": "Patrocinio newsletter | Bioconstrucción Futura",
+    "folder": "BLOGS",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg6kr7k",
+    "url": "https://welldone4u.club/",
+    "title": "WellDone4U Club",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeginik3",
+    "url": "https://docs.microsoft.com/es-es/power-bi/transform-model/desktop-quick-measures",
+    "title": "Uso de medidas rápidas para realizar cálculos comunes y eficaces - Power BI | Microsoft Docs",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegt7nag",
+    "url": "https://datastudio.google.com/",
+    "title": "Google Data Studio",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegxbiuo",
+    "url": "https://www.facebook.com/adsmanager/manage/campaigns?act=2141110926186570&nav_entry_point=lep_233&nav_source=unknown",
+    "title": "(2) Administrador de anuncios - Administrar anuncios - Campañas",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegsv8a0",
+    "url": "https://business.facebook.com/creatorstudio/home?ref=trabajosremotos",
+    "title": "(2) Creator Studio",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegfy1su",
+    "url": "https://postcron.com/es/blog/landings/buscador-de-hashtags/#page-block-he6t7wyxoh",
+    "title": "Buscador de Hashtags para tus Posts",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeguhlg8",
+    "url": "https://business.facebook.com/latest/home?nav_ref=bm_home_redirect&business_id=481842459737532&asset_id=110166654596689",
+    "title": "Facebook Business Suite",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegk7fhu",
+    "url": "https://search.google.com/search-console/about",
+    "title": "Google Search Console",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegzj4zb",
+    "url": "https://developers.google.com/analytics/devguides/collection?hl=es",
+    "title": "Medición de Analytics  |  Google Developers",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegowxb7",
+    "url": "https://learndigital.withgoogle.com/activate/plan/in_progress",
+    "title": "Mi plan de formación - Google Actívate",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegl1a7i",
+    "url": "https://developers.google.com/speed/pagespeed/insights/?hl=es",
+    "title": "PageSpeed Insights",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg75z4c",
+    "url": "https://analytics.twitter.com/about",
+    "title": "Twitter Analytics",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegjaqnj",
+    "url": "https://business.twitter.com/es.html",
+    "title": "Twitter para empresas | Consejos, herramientas y prácticas recomendadas de Twitter",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg4wj4r",
+    "url": "https://business.linkedin.com/es-es/marketing-solutions?src=pa-bi&trk=sem_lms_gaw&veh=LMS_EMEA_Stretch_ES_Search_Bing-Brand_DR-PRS_Broad_Localized-Alpha_All_Spanish_Core__c_kwd-80127098698716:loc-170_372328060_linkedin%20business&mcid=6612427885674319880&cname=LMS_EMEA_Stretch_ES_Search_Bing-Brand_DR-PRS_Broad_Localized-Alpha_All_Spanish_Core&camid=372328060&asid=1282030861032052&targetid=kwd-80127098698716:loc-170&crid=80127001828309&dev=c&ends=1&&msclkid=15eecb9e99f2170fa456ab3085c00ff5&gclid=15eecb9e99f2170fa456ab3085c00ff5&gclsrc=3p.ds",
+    "title": "Marketing y publicidad en LinkedIn | LinkedIn Marketing Solutions",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegkjnh6",
+    "url": "https://linkedin.github.io/career-explorer/",
+    "title": "Explorador de carrera de LinkedIn",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegz84y2",
+    "url": "https://ads.twitter.com/campaign/18ce55eslx1/new/campaign/setup?objective=4",
+    "title": "Creador de la campaña Twitter",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegedp21",
+    "url": "https://www.danielpinero.com/como-calcular-metricas-adwords",
+    "title": "Cómo calcular métricas de Adwords - DanielPiñero.com",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegenl8o",
+    "url": "https://feedly.com/",
+    "title": "Welcome to Feedly",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg3mzfp",
+    "url": "https://analytics.google.com/analytics/web/#/a3670325w6991819p7253843/admin",
+    "title": "Analytics",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg2szca",
+    "url": "https://ads.google.com/aw/campaigns/new/express?ocid=682816799&euid=422654064&__u=7290820336&uscid=682816799&__c=1873157351&authuser=0&sourceid=emp&subid=ALL-es-et-g-aw-a-tools-kwp_bb-awhp_xin1!o2&campaignId=12683242998&step=curl",
+    "title": "Google Ads",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxega78nh",
+    "url": "https://adssettings.google.com/authenticated",
+    "title": "Configuración de anuncios",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg9y48j",
+    "url": "https://www.socialgest.net/es",
+    "title": "SocialGest | Herramienta para programar, analizar y gestionar en Instagram, Facebook, Twitter y Linkedin",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg3ybq0",
+    "url": "https://business.facebook.com/latest/home?nav_ref=bm_home_redirect&business_id=502310511211110&asset_id=100378695578474",
+    "title": "Meta Business Suite",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg231up",
+    "url": "https://wlcp.nominalia.com/es/managedcms/boosux",
+    "title": "Descripción general - Nominalia",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegqr12k",
+    "url": "https://www.dropship.io/es/precios?_gl=1*h1qfzq*_up*MQ..*_ga*MTEyODUyOTMyMS4xNzE5NDIxMzA0*_ga_GP54VD507Q*MTcxOTQyMTMwMi4xLjEuMTcxOTQyMTM3Mi4wLjAuMA..",
+    "title": "Planes y precios | Dropship",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegoe04i",
+    "url": "https://www.oxolo.com/pricing/",
+    "title": "Oxolo Pricing",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg9u8pq",
+    "url": "https://rakutenadvertising.com/es-es/soluciones/",
+    "title": "Impulsa el Crecimiento de tu Negocio con Soluciones de Marketing de Rendimiento.",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg4i22c",
+    "url": "https://www.awin.com/es/search/advertiser-directory",
+    "title": "Search | Awin",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeggzafd",
+    "url": "https://www.awin.com/es/search/advertiser-directory?s=",
+    "title": "Search | Awin",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegylwj8",
+    "url": "https://transitionalhooks.com/",
+    "title": "Transitional Hooks for Social Media Videos | High Quality Viral Vids",
+    "folder": "MARKETING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxege9rtx",
+    "url": "https://sitekit.withgoogle.com/",
+    "title": "Site Kit by Google",
+    "folder": "TRAINNING & LEARNING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegaz48l",
+    "url": "https://skillshop.exceedlms.com/student/catalog/list?category_ids=53-google-ads?use_local=true",
+    "title": "Skillsshop",
+    "folder": "TRAINNING & LEARNING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegmjbo3",
+    "url": "https://gsuite.google.com/marketplace/app/supermetrics/523876908005",
+    "title": "Supermetrics - Google Workspace Marketplace",
+    "folder": "TRAINNING & LEARNING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg2gt3r",
+    "url": "https://www.thinkwithgoogle.com/intl/en-gb/",
+    "title": "Think with Google - Discover Marketing Research & Digital Trends",
+    "folder": "TRAINNING & LEARNING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegtcg3c",
+    "url": "https://www.youtube.com/c/NeilPatel",
+    "title": "Neil Patel - YouTube",
+    "folder": "TRAINNING & LEARNING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegiyspc",
+    "url": "https://www.youtube.com/c/Adamerhartvideo",
+    "title": "Adam Erhart - YouTube",
+    "folder": "TRAINNING & LEARNING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg4h7cd",
+    "url": "https://www.youtube.com/c/MartaEmerson",
+    "title": "Marta Emerson - YouTube",
+    "folder": "TRAINNING & LEARNING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg50dzj",
+    "url": "https://revistas.unal.edu.co/index.php/innovar",
+    "title": "Innovar",
+    "folder": "TRAINNING & LEARNING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegvb68h",
+    "url": "https://claseflix.com/educacion",
+    "title": "Educación - Claseflix",
+    "folder": "TRAINNING & LEARNING",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegtcpz7",
+    "url": "https://www.codecademy.com/courses/learn-python/lessons/python-syntax/exercises/print-statements",
+    "title": "Hello World! - Learn Python 2 | Codecademy",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegb174b",
+    "url": "https://softwarecrafters.io/python/tutorial-de-python-introduccion",
+    "title": "Software Crafters",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegmkfct",
+    "url": "https://knowledgemanagementdepot.com/",
+    "title": "knowledgemanagementdepot.com - The Knowledge Management (KM) Depot",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeggfn02",
+    "url": "https://es.libreoffice.org/",
+    "title": "Inicio | LibreOffice en español - suite ofimática libre, basada en OpenOffice, compatible con Microsoft",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeggwqt0",
+    "url": "https://www.genbeta.com/a-fondo/aplicaciones-gratuitas-codigo-abierto-buenas-que-dificil-creer-que-sean-mejores-que-pago",
+    "title": "11 aplicaciones gratuitas y de código abierto tan buenas que es difícil creer que sean mejores que las de pago",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegt5ram",
+    "url": "https://datavizcatalogue.com/ES/",
+    "title": "Catálogo de Visualización de Datos",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegbwca5",
+    "url": "https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery",
+    "title": "Data Stories Gallery - Microsoft Power BI Community",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegebmp5",
+    "url": "https://www.statisticshowto.com/",
+    "title": "Statistics How To: Elementary Statistics for the rest of us!",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg3rgbc",
+    "url": "https://learn.microsoft.com/es-es/training/powerplatform/power-bi",
+    "title": "Power BI en Microsoft Learn | Microsoft Learn",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegfvcaj",
+    "url": "https://www.kaggle.com/datasets",
+    "title": "Find Open Datasets and Machine Learning Projects | Kaggle",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeglz0wq",
+    "url": "https://github.com/explore",
+    "title": "Explore GitHub",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg4dc4k",
+    "url": "https://www.kaggle.com/datasets?fileType=csv",
+    "title": "Find Open Datasets and Machine Learning Projects | Kaggle",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegvzwbn",
+    "url": "https://www.kaggle.com/",
+    "title": "Kaggle: Your Home for Data Science",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegs344d",
+    "url": "https://infogram.com/es/?rc=paid0sem0branded0search0&utm_campaign=GS_BR_SUL_EMEA_ESP_E_ES_Infogram&utm_medium=ppc&utm_term=infogram&utm_source=adwords&hsa_tgt=kwd-320396129236&hsa_ad=302352539670&hsa_kw=infogram&hsa_grp=59852265346&hsa_src=g&hsa_mt=e&hsa_acc=8106939973&hsa_net=adwords&hsa_cam=1595738859&hsa_ver=3&gclid=EAIaIQobChMIxZXZ0MC2_wIVZ4poCR1A6QIEEAAYASAAEgK0n_D_BwE",
+    "title": "Crea infografías, informes y mapas - Infogram",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg12dt3",
+    "url": "https://app.flourish.studio/projects",
+    "title": "Flourish | Data Visualisation & Storytelling",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegf3quf",
+    "url": "https://products.aspose.app/pdf/es/conversion/gz-to-excel",
+    "title": "GZ a EXCEL convertidor en línea - Convertir GZ a EXCEL para GRATIS",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegrbi0p",
+    "url": "https://www.aprendemachinelearning.com/regresion-lineal-en-espanol-con-python/",
+    "title": "Ejemplo Regresión Lineal Python | Aprende Machine Learning",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg7gcmr",
+    "url": "https://joserzapata.github.io/courses/python-ciencia-datos/visualizacion/",
+    "title": "Visualización de Datos con Python | Jose Ricardo Zapata",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegxtjln",
+    "url": "https://interactivechaos.com/es/manual/tutorial-de-matplotlib/graficos-de-dispersion",
+    "title": "Gráficos de dispersión | Interactive Chaos",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg8wssn",
+    "url": "https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/block-v1:IBM+PY0101EN+2T2021+type@sequential+block@165ec214399143a5aab81788dc9177ff/block-v1:IBM+PY0101EN+2T2021+type@vertical+block@09b712c5d6344f47873d6e66c200ffc5?_gl=1%2A1k1y2fj%2A_ga%2AMjM4MDE0MTU4LjE2OTA3MzE3MTc.%2A_ga_D3KS4KMDT0%2AMTY5MTkzNDEzOS4yLjEuMTY5MTkzNTY1NC42MC4wLjA.",
+    "title": "| Python Basics for Data Science | edX",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegmgkop",
+    "url": "https://learning.edx.org/course/course-v1:IBM+DA0100+1T2021/block-v1:IBM+DA0100+1T2021+type@sequential+block@7635c64f28914a5dac310fb6b3a9b2cf/block-v1:IBM+DA0100+1T2021+type@vertical+block@7fc3930148624861b731277120b53fed",
+    "title": "Module Introduction and Learning Objectives | Module 3 - The Data Ecosystem and Languages for Data Professionals | Data Analytics Basics for Everyone | edX",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegztpq6",
+    "url": "https://cloud.google.com/dataprep?hl=es",
+    "title": "Dataprep de Trifacta  |  Cloud Dataprep by Trifacta  |  Google Cloud",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegdwtq5",
+    "url": "https://support.google.com/docs/answer/3093343?hl=en",
+    "title": "QUERY function - Google Docs Editors Help",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg15o2t",
+    "url": "https://www.garcia-ferreira.es/las-3-mejores-librerias-para-el-analisis-tecnico/",
+    "title": "Las 3 mejores librerías para el análisis técnico",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeghqny9",
+    "url": "https://www.kaggle.com/code/colinmorris/hello-python",
+    "title": "Hello, Python | Kaggle",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegycuex",
+    "url": "https://learning.edx.org/course/course-v1:IBM+DB0201EN+1T2021/block-v1:IBM+DB0201EN+1T2021+type@sequential+block@cb3ef351564b459e880b88741e25afc6/block-v1:IBM+DB0201EN+1T2021+type@vertical+block@4683d22d2b404695b4611648a1f9d5de?_gl=1%2A1j4m7i5%2A_ga%2AMTMxMzU5NTIwMS4xNjk1ODcxNzMy%2A_ga_D3KS4KMDT0%2AMTY5Njc5NDA4OC4yMC4xLjE2OTY3OTU2MjcuNjAuMC4w",
+    "title": "Video: Welcome to SQL for Data Science (2m) | About this Course | SQL for Data Science | edX",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg08pf1",
+    "url": "https://mlstudio.jaol.net/analisis-de-series-temporales-python/",
+    "title": "▷ Análisis de series de tiempo en Python: una guía completa con ejemplos | Machine Learning Studio® 2023",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg0kpx3",
+    "url": "https://cloud.ibm.com/catalog?search=lite",
+    "title": "Catálogo - IBM Cloud",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeggk914",
+    "url": "https://www.useblackbox.io/",
+    "title": "Blackbox",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeghx4ep",
+    "url": "https://stackoverflow.com/?newreg=2c71ed0532664026b09a2dbcb7755d22",
+    "title": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg77c4y",
+    "url": "https://www.sqlite.org/whentouse.html",
+    "title": "Appropriate Uses For SQLite",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg2hzb2",
+    "url": "https://dev.mysql.com/doc/connector-python/en/",
+    "title": "MySQL :: MySQL Connector/Python Developer Guide",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg97rci",
+    "url": "https://sqlzoo.net/wiki/SQL_Tutorial",
+    "title": "SQLZoo",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegi3qz6",
+    "url": "https://docs.sqlalchemy.org/en/21/",
+    "title": "SQLAlchemy Documentation — SQLAlchemy 2.1 Documentation",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegdcdmq",
+    "url": "https://app.datawars.io/login?redirect_to=https://app.datawars.io/project/445a7038-ea25-4cab-b9d6-e6f524c49e09?page=2",
+    "title": "DataWars",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegekgb0",
+    "url": "https://www.tensorflow.org/?hl=es-419",
+    "title": "TensorFlow",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg8wyrv",
+    "url": "https://colab.research.google.com/drive/1uuWP_nYvrHrj01bvugxuG88A5zIZIoM6?usp=sharing",
+    "title": "Python by Jtellez.ipynb - Colaboratory",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegtjquu",
+    "url": "https://docs.python.org/3.10/tutorial/",
+    "title": "The Python Tutorial — Python 3.10.13 documentation",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegypmao",
+    "url": "https://www.python.org/",
+    "title": "Welcome to Python.org",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegdukwi",
+    "url": "https://docs.python.org/es/3/library/index.html",
+    "title": "La biblioteca estándar de Python — documentación de Python - 3.12.1",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegw336y",
+    "url": "https://verneacademy.com/blog/articulos-ia/10-librerias-python-data-science-machine-learning/",
+    "title": "10 Librerías Python para Data Science y Machine Learning",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegtg07w",
+    "url": "https://medium.com/",
+    "title": "Medium",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegljc1a",
+    "url": "https://www.canva.com/design/DAGAedcBkv8/9NfO6AXgnwUzFygsDnXT4w/edit",
+    "title": "proyectos | financiación| acompañamiento| seguridad - Vídeo para móviles",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg7xkw5",
+    "url": "https://roadmap.sh/ai-data-scientist",
+    "title": "AI and Data Scientist Roadmap",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegs1lll",
+    "url": "https://console.cloud.google.com/projectselector2/bigquery?referrer=search&hl=es-419&organizationId=0&supportedpurview=project",
+    "title": "BigQuery Studio – BigQuery – Consola de Google Cloud",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg25l4h",
+    "url": "https://devdocs.io/sqlite/",
+    "title": "SQLite documentation — DevDocs",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg41z9e",
+    "url": "https://leetcode.com/explore/",
+    "title": "Explore - LeetCode",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegfwlyp",
+    "url": "https://datos.gob.es/es/",
+    "title": "Datos abiertos del Gobierno de España – Datos.gob.es",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg8wiv5",
+    "url": "https://infogram.com/?_gl=1*bbk2kg*_up*MQ..*_ga*ODI3MjkxODcyLjE3NTkzODM2MTU.*_ga_LD50PRQER7*czE3NTkzODM2MTQkbzEkZzEkdDE3NTkzODM2MTkkajU1JGwwJGgw",
+    "title": "Create Interactive Data Visualizations with AI | Infogram",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg8pq0d",
+    "url": "https://overapi.com/python#google_vignette",
+    "title": "Python Cheat Sheet | OverAPI.com",
+    "folder": "DATA ANALYST",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg6re3p",
+    "url": "https://tome.app/alexbanderaspace",
+    "title": "Tome",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegs4p50",
+    "url": "https://www.synthesia.io/free-ai-video-demo?utm_term=synthesia&utm_campaign=Synthesia&utm_source=google&utm_medium=cpc&hsa_acc=5132031546&hsa_cam=16607623891&hsa_grp=135039912935&hsa_ad=635513368001&hsa_src=g&hsa_tgt=kwd-323407513834&hsa_kw=synthesia&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwwISlBhD6ARIsAESAmp4kUSBLoWVBzzX9OBftL5cln-I0MwgtRz4xcSpq0C84rraKFeIzNFcaAgHzEALw_wcB#LnD",
+    "title": "#1 Free AI Video Generator | Synthesia STUDIO",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg9isjm",
+    "url": "https://www.synthesia.io/pricing",
+    "title": "Synthesia Official Pricing | From $30 per Month",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegtbdkw",
+    "url": "https://www.imagine.art/?utm_source=google&utm_medium=cpc&utm_campaign=Competitor_web_Tier2&gclid=Cj0KCQjwwISlBhD6ARIsAESAmp7nbc7FmYHFLjIexl9CFwhJDRcdNvuKMDoqwlWQMh98IYO6h-x1TFEaAmJqEALw_wcB",
+    "title": "Imagine AI Art Generator",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxega6nxn",
+    "url": "https://chat.openai.com/auth/login",
+    "title": "chat AI",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegk239e",
+    "url": "https://www.imagine.art/dashboard",
+    "title": "Imagine AI Art Generator",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegs65d7",
+    "url": "https://convert.leiapix.com/",
+    "title": "LeiaPix Converter | Depth Animations",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg5lp1b",
+    "url": "https://discord.com/channels/1046979304547954728/@home",
+    "title": "• Discord",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegggm8h",
+    "url": "https://www.d-id.com/creative-reality-studio/",
+    "title": "Talking Heads Videos | E-learning and Training | D-ID",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegsvmrm",
+    "url": "https://www.toolify.ai/category",
+    "title": "Toolify | All Categories",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegobrgj",
+    "url": "https://studio.invideo.io/new-user",
+    "title": "InVideo - Online Video Editor | Make professional videos within minutes",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegp092q",
+    "url": "https://studio.invideo.io/workflow/marketing-templates",
+    "title": "InVideo - Online Video Editor | Make professional videos within minutes",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg0iatg",
+    "url": "https://learnprompting.org/es/docs/category/-prompt-tuning",
+    "title": "💪 Prompt Tuning | Learn Prompting: Your Guide to Communicating with AI",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg80uno",
+    "url": "https://cs50.harvard.edu/ai/2020/weeks/0/",
+    "title": "Week 0 Search - CS50's Introduction to Artificial Intelligence with Python",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegr3g1a",
+    "url": "https://business-generator.vercel.app/",
+    "title": "Business Generator",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegsl3ka",
+    "url": "https://elevenlabs.io/",
+    "title": "Text to Speech & AI Voice Generator - ElevenLabs",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegc46yl",
+    "url": "https://elevenlabs.io/speech-synthesis",
+    "title": "Free AI Speech Synthesis Online",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegzbg94",
+    "url": "https://elevenlabs.io/app/speech-synthesis",
+    "title": "AI Voice Generator & Text to Speech | ElevenLabs",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegpic72",
+    "url": "https://aistudio.google.com/prompts/new_chat?project=gen-lang-client-0544485314",
+    "title": "Google AI Studio",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegtwktc",
+    "url": "https://chatllm.abacus.ai/isv?gad_source=1&gad_campaignid=21784245758&gbraid=0AAAAACeGdS1DoLvY6XbLBAlW7CvfNp42t&gclid=CjwKCAjwyuDTBhB-EiwANCQhLDN9qje5kG7FPdfWJEF8EbeKkLjFAkjSdoanjZcnZ0b-phQIZ2ri6hoCFyMQAvD_BwE",
+    "title": "Abacus.AI - ChatLLM Teams",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegubc85",
+    "url": "https://aistudio.google.com/prompts/new_chat",
+    "title": "Google AI Studio",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegmnbnj",
+    "url": "https://stitch.withgoogle.com/",
+    "title": "Stitch - Design with AI",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeganpei",
+    "url": "https://labs.google/fx/tools/flow",
+    "title": "Google Flow - AI Creative Studio for Video, Images & Custom Tools",
+    "folder": "IA",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeggjx8s",
+    "url": "https://fbref.com/es/equipos/",
+    "title": "Clubes de fútbol por país | FBref.com",
+    "folder": "FUTBOL",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegt2ubh",
+    "url": "https://es.soccerway.com/",
+    "title": "Resultados en vivo, resultados, próximos partidos, tablas, estadísticas y noticias - Soccerway",
+    "folder": "FUTBOL",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegwqn4a",
+    "url": "https://www.flashscore.es/",
+    "title": "Resultados de fútbol en directo, MisMarcadores | Flashscore.es",
+    "folder": "FUTBOL",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegqcwqi",
+    "url": "https://understat.com/",
+    "title": "xG stats for teams and players from the TOP European leagues",
+    "folder": "FUTBOL",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegn1art",
+    "url": "https://www.whoscored.com/Statistics",
+    "title": "FUTBOL",
+    "folder": "FUTBOL",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg9rdfl",
+    "url": "https://www.tiendabvc.com/",
+    "title": "Tienda bvc",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegm4pmf",
+    "url": "http://www.imponderablethings.com/",
+    "title": "ImponderableThings (Scott Driscoll's Blog)",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg67pjs",
+    "url": "https://www.pluralsight.com/",
+    "title": "plularsight",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegs69pg",
+    "url": "https://www.coindesk.com/markets/2021/06/23/como-crear-comprar-y-vender-nfts/",
+    "title": "Cómo crear, comprar y vender NFTs - CoinDesk",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegj6thf",
+    "url": "https://academy.binance.com/es/start-here?utm_campaign=googleadsxacademy&utm_source=googleadwords_int&utm_medium=cpc&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KGh1CY7tyWS4ec-ENJ3vCK9XOyUotsP8Zl6D08GckW5u_LA0WY3dZ4aAtT6EALw_wcB#blockchain",
+    "title": "Tu viaje empieza ahora | Binance Academy",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg3w1xz",
+    "url": "https://mintable.app/",
+    "title": "crear nfts",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegpo0lf",
+    "url": "https://metamask.io/",
+    "title": "MetaMask - A crypto wallet & gateway to blockchain apps",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegxa1ia",
+    "url": "https://www.diariobitcoin.com/cripto-101/",
+    "title": "Cripto Tutoriales 101 - DiarioBitcoin",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg4krbm",
+    "url": "https://ethereum.org/es/",
+    "title": "Inicio | ethereum.org",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegr89om",
+    "url": "https://bitcoin.org/es/",
+    "title": "Bitcoin - Dinero P2P de código abierto",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxego7tyk",
+    "url": "https://www.coindesk.com/tag/spanish/",
+    "title": "Spanish - CoinDesk",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg5j6if",
+    "url": "https://www.cryptocompare.com/",
+    "title": "Cry.ptoCompare",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegtel0c",
+    "url": "https://www.coingecko.com/es",
+    "title": "Precios de criptomonedas, gráficos y capitalización de mercado de criptomonedas | CoinGecko",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg3i78t",
+    "url": "https://www.udemy.com/course/conviertete-en-desarrollador-blockchain-con-ethereum/",
+    "title": "Conviértete en desarrollador Blockchain con Ethereum | Udemy",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegoc1dq",
+    "url": "https://www.iebschool.com/blog/dapps-o-aplicaciones-descentralizadas-que-son-y-como-funcionan-finanzas/",
+    "title": "Qué son las DApps o Aplicaciones Descentralizadas y varios ejemplos",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg6rx0u",
+    "url": "https://opensea.io/es/account",
+    "title": "opensea",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegjspc3",
+    "url": "https://opensea.io/es",
+    "title": "OpenSea, el mercado más grande de NFT",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegwf3hq",
+    "url": "https://ethereum.stackexchange.com/questions/7812/question-on-the-terms-distributed-and-decentralised",
+    "title": "blockchain - Question on the terms 'distributed' and 'decentralised' - Ethereum Stack Exchange",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegz0wob",
+    "url": "https://es.beincrypto.com/precio/dogecoin/",
+    "title": "valoracion de protocolos",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg6b3dp",
+    "url": "https://www.gate.io/es/trade/D2T_USDT?referrer=https%253A%252F%252Fwww.business2community.com%252Fes%252Finvertir%252Fcriptomonedas-mas-rentables",
+    "title": "dash 2 trade",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg2u6ss",
+    "url": "https://www.cripto247.com/",
+    "title": "cripto247 — Últimas noticias del cripto-ecosistema en Español",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegloo0i",
+    "url": "https://coinmarketcap.com/es/",
+    "title": "Precios, gráficos y capitalizaciones de mercado de criptomonedas | CoinMarketCap",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeggxv4l",
+    "url": "https://github.com/",
+    "title": "GitHub: Let’s build from here · GitHub",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegutc4m",
+    "url": "https://es.investing.com/crypto/currencies",
+    "title": "Todas las criptomonedas - Investing.com",
+    "folder": "BLOCKCHAIN",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg20xfx",
+    "url": "https://fundamentei.com/",
+    "title": "Fundamentei",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg4s6r5",
+    "url": "https://www.dataroma.com/m/holdings.php?m=LMM",
+    "title": "DATAROMA Superinvestors Portfolio Holdings",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegp3gi0",
+    "url": "https://www.investor.gov/financial-tools-calculators/calculators/calculadora-de-interes-compuesto",
+    "title": "Calculadora de interés compuesto | Investor.gov",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegc4pjo",
+    "url": "https://app.tikr.com/markets?fid=1",
+    "title": "TIKR Terminal",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegnkfd6",
+    "url": "https://www.dataroma.com/m/ins/ins.php",
+    "title": "Real Time Insider Data - DATAROMA - Investing",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg5ym8n",
+    "url": "https://app.tikr.com/stock/estimates?cid=18749&tid=2588568&tab=est&ref=0elugn",
+    "title": "AMZN $174.51 $4.68 2.76 % - Terminal TIKR",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegv9hkx",
+    "url": "https://www.degiro.es/lp/invertir?utm_source=google&utm_medium=cpc&utm_campaign=BrandExact&utm_content=20936340865-163270241888&gclid=CjwKCAiA2pyuBhBKEiwApLaIO-3mquf56kHL5wWjGDZbmNM2_kdWWX9QudtxzGFYdpJcFlQYHNE_xhoCI00QAvD_BwE",
+    "title": "Empieza a invertir con tarifas increíblemente bajas",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxega7kvs",
+    "url": "https://medium.com/@rgaveiga/python-for-options-trading-3-a-trade-with-100-probability-of-profit-886e934addbf",
+    "title": "Python for Options Trading (3): A Trade with 100% Probability of Profit | by Roberto Gomes, PhD | Medium",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegiiul5",
+    "url": "https://www.google.com/finance/portfolio/8aa478f3-7c01-421c-8582-5cbeaffa6084?hl=es&window=1M",
+    "title": "alex - Google Finance",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegy2oa1",
+    "url": "https://ninjatrader.com/es-es/support/",
+    "title": "TRADE",
+    "folder": "INVERSIONES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeghp9or",
+    "url": "https://www.freelancer.com/",
+    "title": "Hire Freelancers & Find Freelance Jobs Online | Freelancer",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegepq8p",
+    "url": "https://solidgigs.com/",
+    "title": "SolidGigs | Get Freelance Leads on Autopilot",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg7jjg8",
+    "url": "https://www.crossover.com/",
+    "title": "Crossover | the world's best full-time remote jobs",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegyogi0",
+    "url": "https://trabajamosremotamente.com/",
+    "title": "trabajamosremotamente.com",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg2evdk",
+    "url": "https://www.flexjobs.com/lp/remote-jobs1?utm_source=google&utm_medium=sem&utm_campaign=19937444305&utm_term=flexjobs&network=g&device=c&adposition=&adgroupid=148245362856&placement=&adid=664704106764&gad_source=1&gclid=CjwKCAiA-vOsBhAAEiwAIWR0TS1r5aoAeQhPZpBYba0dNA_-lx6yASTOLwFyYpp93MZ-ilvnlV5inRoC0FwQAvD_BwE",
+    "title": "Remote Jobs - FlexJobs",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg7asjy",
+    "url": "https://www.freelancer.com/u/Alexbandera",
+    "title": "Alexander B. Profile | Freelancer",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg52j9s",
+    "url": "https://www.workingnomads.com/jobs?location=anywhere",
+    "title": "Remote Jobs | Working Nomads",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg035kx",
+    "url": "https://www.skipthedrive.com/job-category/remote-analyst-jobs/",
+    "title": "Remote Analyst Jobs - SkipTheDrive",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegxyh05",
+    "url": "https://www.skipthedrive.com/",
+    "title": "Find remote jobs on SkipTheDrive - Work From Home",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegie9ef",
+    "url": "https://instavideosave.net/hashtag-finder",
+    "title": "Instagram Hashtag Generator - Copy & Paste Trending Hashtags",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegdk15s",
+    "url": "https://virtualtalentlatam.com/trabajo-remoto/",
+    "title": "Trabajo Remoto Archives - Virtual Talent Latam",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegq1tqi",
+    "url": "https://www.kickresume.com/edit/10317118/job-interview/",
+    "title": "Kickresume",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegstew2",
+    "url": "https://app.loopcv.pro/overview",
+    "title": "LoopCV",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeglle1j",
+    "url": "https://myhrabc.wd5.myworkdayjobs.com/es/Global/userHome?locationCountry=bd34c524a6a04ae6915f5d96fa086199",
+    "title": "Página de inicio de candidatos",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeglc3r1",
+    "url": "https://www.workingnomads.com/remote-spanish-jobs",
+    "title": "Remote Spanish Jobs | Working Nomads",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegz8oka",
+    "url": "https://www.malt.es/profile/alexanderbanderaforero",
+    "title": "Alexander Bandera Forero, business analyst",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegwr3s3",
+    "url": "https://sketchfab.com/signup/finalize",
+    "title": "Sketchfab",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeguvjc7",
+    "url": "https://www.clickbank.com/getting-started/setting-up-your-account/?submissionGuid=c97218a7-b170-4f4f-8466-5e81912398b9",
+    "title": "Setting Up Your Account - ClickBank",
+    "folder": "WORKONLINE",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegn0nl3",
+    "url": "https://linktr.ee/register/templates/add-links?freeTrialEntryPoint=PAID_MEDIA&tier=paid2&frequency=monthly",
+    "title": "Linktree | Create an account for free",
+    "folder": "REDES SOCIALES",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegjc8r9",
+    "url": "https://www.eslsongs.com/practise/modal-verbs/modal-verbs-of-deduction/",
+    "title": "2 pop songs with modal verbs of deduction + worksheet for ESL class",
+    "folder": "ENGLISH",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegs5vzw",
+    "url": "https://test-english.com/work-in-progress/",
+    "title": "Work in progress - Test-English",
+    "folder": "ENGLISH",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg3l04i",
+    "url": "https://www.ringteacher.com/materiales-didacticos/?_gl=1*1b6fnpw*_up*MQ..*_ga*MTE1MDE1MDA4Mi4xNzcyMTc2Njky*_ga_L7BJ36EF4L*czE3NzIxNzY2OTEkbzEkZzEkdDE3NzIxNzY5ODQkajQyJGwwJGgxMDAzNDIzMjA.",
+    "title": "Aprende con nuestros materiales didácticos en inglés - ringteacher",
+    "folder": "ENGLISH",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegoonu3",
+    "url": "https://sketchfab.com/signup/onboarding",
+    "title": "DRAW",
+    "folder": "Importados",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegb6mzc",
+    "url": "http://referenceangle.com/",
+    "title": "Reference Angle",
+    "folder": "Importados",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxeg7tfmd",
+    "url": "https://lichess.org/",
+    "title": "lichess.org • Free Online Chess",
+    "folder": "",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  },
+  {
+    "id": "bmt1bzxegubwjr",
+    "url": "https://labs.google/lll/es",
+    "title": "Little Language Lessons",
+    "folder": "",
+    "tags": [],
+    "favorite": false,
+    "created": 1787218916056
+  }
+]
