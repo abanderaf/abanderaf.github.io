@@ -169,6 +169,13 @@
   </div>
   <div class="status" id="statusPill"><span class="sdot"></span><span id="statusText">sin configurar</span></div>
   <button class="btn btn-accent" id="addBtn">+ Añadir</button>
+  <button class="icon-btn" id="importBtn" aria-label="Importar" title="Importar CSV o marcadores del navegador">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+  </button>
+  <input type="file" id="importFile" accept=".csv,.html,.htm" style="display:none">
+  <button class="icon-btn" id="exportBtn" aria-label="Exportar CSV" title="Exportar a CSV">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+  </button>
   <button class="icon-btn" id="settingsBtn" aria-label="Ajustes">
     <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
   </button>
@@ -663,6 +670,115 @@
     closeSettings();
     fetchFromGithub();
   }
+
+  function csvEscape(v){
+    v = (v==null?'':String(v));
+    if(/[",\n]/.test(v)){ return '"' + v.replace(/"/g,'""') + '"'; }
+    return v;
+  }
+  function exportCsv(){
+    var rows = [['title','url','folder','tags','favorite']];
+    state.items.forEach(function(i){
+      rows.push([i.title, i.url, i.folder||'', (i.tags||[]).join('|'), i.favorite?'1':'0']);
+    });
+    var csv = rows.map(function(r){ return r.map(csvEscape).join(','); }).join('\n');
+    var blob = new Blob([csv], {type:'text/csv;charset=utf-8;'});
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'marcadores-' + new Date().toISOString().slice(0,10) + '.csv';
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  }
+
+  function parseCsvLine(line){
+    var out = []; var cur = ''; var inQ = false;
+    for(var i=0;i<line.length;i++){
+      var c = line[i];
+      if(inQ){
+        if(c === '"'){
+          if(line[i+1] === '"'){ cur += '"'; i++; } else { inQ = false; }
+        } else { cur += c; }
+      } else {
+        if(c === '"'){ inQ = true; }
+        else if(c === ','){ out.push(cur); cur=''; }
+        else { cur += c; }
+      }
+    }
+    out.push(cur);
+    return out;
+  }
+  function parseCsvFile(text){
+    var lines = text.split(/\r\n|\n/).filter(function(l){return l.trim().length;});
+    if(!lines.length) return [];
+    var header = parseCsvLine(lines[0]).map(function(h){return h.trim().toLowerCase();});
+    var idx = {
+      title: header.indexOf('title'), url: header.indexOf('url'),
+      folder: header.indexOf('folder'), tags: header.indexOf('tags'),
+      favorite: header.indexOf('favorite')
+    };
+    var out = [];
+    for(var i=1;i<lines.length;i++){
+      var cols = parseCsvLine(lines[i]);
+      var url = idx.url>-1 ? cols[idx.url] : cols[1];
+      var title = idx.title>-1 ? cols[idx.title] : cols[0];
+      if(!url || !/^https?:\/\//i.test(url.trim())) continue;
+      out.push({
+        title: (title||url).trim(),
+        url: url.trim(),
+        folder: idx.folder>-1 ? (cols[idx.folder]||'').trim() : '',
+        tags: idx.tags>-1 ? (cols[idx.tags]||'').split('|').map(function(t){return t.trim();}).filter(Boolean) : [],
+        favorite: idx.favorite>-1 ? /^(1|true|si|sí)$/i.test((cols[idx.favorite]||'').trim()) : false
+      });
+    }
+    return out;
+  }
+  function parseNetscapeHtml(text){
+    var doc = new DOMParser().parseFromString(text, 'text/html');
+    var links = doc.querySelectorAll('a[href]');
+    var out = [];
+    links.forEach(function(a){
+      var url = a.getAttribute('href') || '';
+      if(!/^https?:\/\//i.test(url)) return;
+      var folder = '';
+      var h3 = a.closest('dl') && a.closest('dl').previousElementSibling;
+      if(h3 && h3.tagName === 'H3'){ folder = h3.textContent.trim(); }
+      out.push({title: a.textContent.trim() || url, url: url, folder: folder, tags: [], favorite: false});
+    });
+    return out;
+  }
+  function mergeImported(newItems){
+    var existingUrls = {};
+    state.items.forEach(function(i){ existingUrls[i.url] = true; });
+    var added = 0;
+    newItems.forEach(function(ni){
+      if(existingUrls[ni.url]) return;
+      state.items.push({
+        id: uid(), url: ni.url, title: ni.title, folder: ni.folder||'',
+        tags: ni.tags||[], favorite: !!ni.favorite, created: Date.now()
+      });
+      existingUrls[ni.url] = true;
+      added++;
+    });
+    render();
+    if(added>0) scheduleSave();
+    alert(added + ' marcador(es) importado(s). ' + (newItems.length-added) + ' omitido(s) por estar ya en tu lista.');
+  }
+
+  document.getElementById('exportBtn').onclick = exportCsv;
+  document.getElementById('importBtn').onclick = function(){ document.getElementById('importFile').click(); };
+  document.getElementById('importFile').addEventListener('change', function(e){
+    var file = e.target.files[0];
+    if(!file) return;
+    var reader = new FileReader();
+    reader.onload = function(ev){
+      var text = ev.target.result;
+      var isHtml = /\.html?$/i.test(file.name) || /<dt>|<a\s/i.test(text.slice(0,2000));
+      var items = isHtml ? parseNetscapeHtml(text) : parseCsvFile(text);
+      if(!items.length){ alert('No se han encontrado marcadores válidos en ese archivo.'); return; }
+      mergeImported(items);
+    };
+    reader.readAsText(file);
+    e.target.value = '';
+  });
 
   // events
   document.getElementById('addBtn').onclick = openAdd;
