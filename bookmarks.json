@@ -3699,5 +3699,16 @@
     "tags": [],
     "favorite": false,
     "created": 1788171055642
+  },
+  {
+    "id": "bmu5cjagyf3wvi",
+    "url": "https://learn.microsoft.com/es-es/sql/t-sql/statements/create-table-transact-sql?view=sql-server-ver17",
+    "title": "Formulas SQL",
+    "folder": "Analisis de datos",
+    "tags": [
+      "sql"
+    ],
+    "favorite": false,
+    "created": 1789638466499
   }
 ]
