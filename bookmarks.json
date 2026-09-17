@@ -1611,15 +1611,6 @@
     "created": 1787218916056
   },
   {
-    "id": "bmt1bzxeg77c4y",
-    "url": "https://www.sqlite.org/whentouse.html",
-    "title": "Appropriate Uses For SQLite",
-    "folder": "DATA ANALYST",
-    "tags": [],
-    "favorite": false,
-    "created": 1787218916056
-  },
-  {
     "id": "bmt1bzxeg2hzb2",
     "url": "https://dev.mysql.com/doc/connector-python/en/",
     "title": "MySQL :: MySQL Connector/Python Developer Guide",
